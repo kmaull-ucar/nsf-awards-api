@@ -71,4 +71,4 @@ The two methods here achieve that result quite nicely :
             if response['query_ok']:
                 return response['results']
 
-See the file []() for the following code fragment to do this work.
+See the file [use_cases.py](https://github.com/kmaull-ucar/nsf-awards-api/blob/master/use_cases.py) for the following code fragment to do this work.
