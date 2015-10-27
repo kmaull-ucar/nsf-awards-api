@@ -48,7 +48,7 @@ The publication segments (author, title, etc.) are separated by the `~` characte
 
 
 ### Using the Crossref Search service to get publication metadata
-You can take a look at the [API documentation at Crossref](http://search.crossref.org/help/api), but using the free-form `/links` endpoint, you may get the DOI for a citation fragment (e.g. title).  From that, you can get the full metadata record using [Crossref's DOI metadata lookup service](http://www.crosscite.org/cn/).
+You can take a look at the [API documentation at Crossref](http://search.crossref.org/help/api), by using the free-form `/links` endpoint, you may get the DOI for a citation fragment (e.g. title).  From that, you can get the full metadata record using [Crossref's DOI metadata lookup service](http://www.crosscite.org/cn/).
 
 The two methods here achieve that result quite nicely :
 
