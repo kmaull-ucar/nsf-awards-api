@@ -1,8 +1,8 @@
 # Overview
 
-The NSF maintains an API for gathering information about the awards provided within their system.
+The [NSF maintains an Awards API](http://www.research.gov/common/webapi/awardapisearch-v1.htm) for gathering information about the awards provided within their system.
 
-This repo documents some of common use cases for the API.
+This repo documents some of common use cases for their API.
  
 ## Use Case : Get publications associated with an NSF grant.
 
