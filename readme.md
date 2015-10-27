@@ -7,7 +7,7 @@ This repo documents some of common use cases for their API.
 ## Use Case : Get publications associated with an NSF grant.
 
 `input:` _an NSF award identifier_
-`output:` _the list of papers associated with the input identifier_
+`output:` _the list of papers (metadata) associated with the input identifier_
  
  Using the awards endpoint and the `printFields` parameter set to `publicationResearch` we can make the call:
  
