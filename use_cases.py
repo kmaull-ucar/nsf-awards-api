@@ -4,6 +4,7 @@ import requests
 import traceback
 import pprint
 
+
 DOI_ORG_URL    = "http://dx.doi.org/"
 CR_SEARCH_URL  = "http://search.crossref.org/"
 NSF_AWARDS_URL = "http://api.nsf.gov/services/v1/awards.json"
@@ -57,5 +58,8 @@ def use_case_01_get_publication_md_from_award_title(nsf_award_id):
     except:
         traceback.print_exc()
 
-if __name__ == "__main__":
+def main():
     use_case_01_get_publication_md_from_award_title(nsf_award_id = '0802290')
+
+if __name__ == "__main__":
+    main()
