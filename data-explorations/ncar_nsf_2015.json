@@ -1,0 +1,131 @@
+{
+  "response" : {
+    "award" : [ {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "608513",
+      "id" : "1513102",
+      "date" : "09/17/2015",
+      "title" : "Engineering experiences: Research on student competency, motivation and persistence in STEM for underserved youth"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "378482",
+      "id" : "1559702",
+      "date" : "09/10/2015",
+      "title" : "National Center for Atmospheric Research Activities Funded by the Defense Advanced Research Projects Agency (DARPA)"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "116288",
+      "id" : "1443652",
+      "date" : "09/10/2015",
+      "title" : "Extending the Capabilities for Fully Coupled Land-Ice Simulations within the Community Earth System Model"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "100000",
+      "id" : "1462247",
+      "date" : "09/01/2015",
+      "title" : "EAGER-DynamicData: Transforming Wildfire Detection and Prediction using New and Underused Sensor and Data Sources Integrated with Modeling"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "1091266",
+      "id" : "1541031",
+      "date" : "08/27/2015",
+      "title" : "EarthCube IA: Advancing netCDF-CF for the Geoscience Community"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "48988",
+      "id" : "1555013",
+      "date" : "08/13/2015",
+      "title" : "Support for the Participation of U.S. Scientists and Students in the International Conference on Global Positioning System (GPS) Radio Occultation; Taipei, Taiwan; March 9-11, 2016"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "3500000",
+      "id" : "1522830",
+      "date" : "08/12/2015",
+      "title" : "Continued Operation of COSMIC GPS Radio Occultation Constellation in Support of Research Applications in Atmospheric Sciences"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "90666",
+      "id" : "1547626",
+      "date" : "06/25/2015",
+      "title" : "RAPID: Collaborative Research: Flask and in Situ Measurements of Carbon and Climate Tracers on ATom-1"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "350000",
+      "id" : "1502208",
+      "date" : "06/19/2015",
+      "title" : "US CLIVAR Project Office"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "99979",
+      "id" : "1535378",
+      "date" : "06/18/2015",
+      "title" : "2015 Unidata Users Workshop Data-Driven Geoscience: Applications, Opportunities, Trends and Challenges; June 22-25, 2015; UCAR Facilities in Boulder, CO"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "3528",
+      "id" : "1503738",
+      "date" : "06/03/2015",
+      "title" : "Collaborative Research: A Field Campaign to Promote Integration Between the Sea Ice Observational and Modeling Communities"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "30000",
+      "id" : "1542750",
+      "date" : "05/18/2015",
+      "title" : "2015 US-Taipei Severe Weather and Extreme Precipitation Workshop in Taiwan"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "555236",
+      "id" : "1501993",
+      "date" : "05/11/2015",
+      "title" : "Collaborative Research: The O2/N2 Ratio and CO2 Airborne Southern Ocean (ORCAS) Study"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "84935",
+      "id" : "1446856",
+      "date" : "04/15/2015",
+      "title" : "Collaborative Research: Improved Ionospheric Source Models for Imaging Upper Mantle-Transition Zone Resistivity"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "15531",
+      "id" : "1530822",
+      "date" : "03/27/2015",
+      "title" : "Measurement Techniques for Solar and Space Physics Conference; Boulder, CO; April 20-24, 2015"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "20000",
+      "id" : "1522544",
+      "date" : "03/20/2015",
+      "title" : "Tropical Cyclone Research Forum \"Tropical Cyclone Operations and Research: Setting the Future Course\"; Charleston, South Carolina"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "98702",
+      "id" : "1450180",
+      "date" : "08/04/2015",
+      "title" : "Collaborative Research: SI2-SSI: Big Weather Web: A Common and Sustainable Big Data Infrastructure in Support of Weather Prediction Research and Education in Universities"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "299862",
+      "id" : "1555550",
+      "date" : "08/26/2015",
+      "title" : "Pilot Study: Creating a Special Collection of NSF-Funded Learning Resources to Support Core Ideas in High School Biology"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "25000",
+      "id" : "1535877",
+      "date" : "05/12/2015",
+      "title" : "Space Weather Workshop 2015; Boulder, CO; April 13-17, 2015"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "779508",
+      "id" : "1452218",
+      "date" : "05/11/2015",
+      "title" : "CEDAR Workshop 2015 - 2017 and Community Web Pages and Email Services"
+    }, {
+      "awardeeName" : "University Corporation For Atmospheric Res",
+      "estimatedTotalAmt" : "13540",
+      "id" : "1462194",
+      "date" : "01/09/2015",
+      "title" : "Support of the International Conference on Mesoscale Convective System"
+    } ]
+  }
+}
