@@ -4,7 +4,7 @@ The [NSF maintains an Awards API](http://www.research.gov/common/webapi/awardapi
 
 This repo documents some of common use cases for their API.
  
-## Use Case : Get publications associated with an NSF grant.
+## Use Case #1: Get publications associated with an NSF grant.
 
 `input:` _an NSF award identifier_
 `output:` _the list of papers (metadata) associated with the input identifier_
@@ -133,3 +133,7 @@ With the input grant ID = `0802290`, we can see the output from the first public
         u'type': u'journal-article',
         u'volume': u'65-70'}
         ...
+ 
+## Use Case #2 : Get award amounts by organization.
+
+This seems to be a core use case that the API was designed for.  Head over to the [uc02_nsf_awards.ipynb](data-explorations/usecase02_nsf_awards.ipynb) to see what can be done.
